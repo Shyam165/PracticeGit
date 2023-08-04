@@ -6,3 +6,5 @@ def Substraction(b, v, f):
 
 def Devision (c, v, h):
     return c/v/h
+def mul(c, v):
+    return c*v
